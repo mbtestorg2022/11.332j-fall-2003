@@ -4,17 +4,224 @@ title: Calendar
 uid: 9fb184c7-2b78-bb4b-b8d0-9916f70b99f5
 ---
 
-| CLASS # | TOPICS | SPEAKERS / ACTIVITY MANAGERS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 - 8 | Part 1: Double 'Readings': Built Form / Life & Learning | Robert Brown (Class #1)  {{< br >}}Jeff Roberts (Class #3)  {{< br >}}Prof. Hansman, Prof. Stewart, Prof. Williams, Prof. Silbey (Class #4)  {{< br >}}Beth Rubenstein and Roger Boothe(Class #6)  {{< br >}}John Curry (Class #7) |  {{< br >}}{{< br >}} Assignment for Part #1 Handed Out (Class #1) {{< br >}}{{< br >}} Review of Part #1(Class #8) {{< br >}}{{< br >}} Assignment for Part #2 Handed Out (Class #8) {{< br >}}{{< br >}}  |
-| 9 - 11 | Part 2: Individual Brainstorming |  |  |
-|  |  {{< br >}}{{< br >}} Part 3: Detailed Development of Proposal {{< br >}}{{< br >}}  |  |  |
-| 12 - 20 | Part 3(a): Conceptual Plan / Open Spaces / Uses | **Review:** Andrea Kahn, Daniel Winny, Ann Pendleton-Jullian, Shun Kanda (Class #12)  {{< br >}}Jim Stockard (Class #13)  {{< br >}}Todd Kohr (Class #15)  {{< br >}}O. Robert Simha (Class #16)  {{< br >}}Emily Greeves (Class #17)  {{< br >}}Paul Parravano and Ken Reeves(Class #18)  {{< br >}}Dan Malinow (Class #19)  {{< br >}}Eric Orozco (Class #20) |  {{< br >}}{{< br >}} Review for Part #2 (Class #12) {{< br >}}{{< br >}} Assignment for Part #3a Handed Out (Class #12) {{< br >}}{{< br >}}  |
-| 21 - 26 | Part 3(b): Streets / Blocks / Parcels | Ray Hodges (Class #21)  {{< br >}}Chris Reed (Class #22)  {{< br >}}**Review:** Chris Reed, Bill Porter, Bill Hubbard, Shun Kanda (Class #24)  {{< br >}}Phil Bernstein (Class #25) |  {{< br >}}{{< br >}} Review of Part #3a (Class #24) {{< br >}}{{< br >}} Assignment for Part #3b Handed Out (Class #24) {{< br >}}{{< br >}}  |
-| 27 - 31 | Part 3(c): Building Typologies / Design Guidelines | **Review:** David Clem and Dan Winny(Class #27) |  {{< br >}}{{< br >}} Review for Part #3b (Class #27) {{< br >}}{{< br >}} Assignment for Part #3c Handed Out (Class #27) {{< br >}}{{< br >}} Pin-Up for Part #3c (Class #31) {{< br >}}{{< br >}} Assignment for Part #4 Handed Out (Class #31) {{< br >}}{{< br >}}  |
-| 32 - 34 | Part 4: Test Outcomes |  |  |
-| 35 - 38 | Part 5: Formatting / Layout |  |  {{< br >}}{{< br >}} Review for Part #4 (Class #35) {{< br >}}{{< br >}} Assignment for LAYOUT Handed Out (Class #35) {{< br >}}{{< br >}}  |
-| 39 - 40 | Part 6: Preparation for Final Presentation |  |  {{< br >}}{{< br >}} Pin-Up for LAYOUT (Class #39) {{< br >}}{{< br >}} Assignment for FINAL Handed Out (Class #39) {{< br >}}{{< br >}} Review of FINAL (Class #40) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CLASS #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SPEAKERS / ACTIVITY MANAGERS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 - 8
+{{< tdclose >}}
+{{< tdopen >}}
+Part 1: Double 'Readings': Built Form / Life & Learning
+{{< tdclose >}}
+{{< tdopen >}}
+Robert Brown (Class #1)  
+Jeff Roberts (Class #3)  
+Prof. Hansman, Prof. Stewart, Prof. Williams, Prof. Silbey (Class #4)  
+Beth Rubenstein and Roger Boothe(Class #6)  
+John Curry (Class #7)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment for Part #1 Handed Out (Class #1)
+
+Review of Part #1(Class #8)
+
+Assignment for Part #2 Handed Out (Class #8)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9 - 11
+{{< tdclose >}}
+{{< tdopen >}}
+Part 2: Individual Brainstorming
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Part 3: Detailed Development of Proposal
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12 - 20
+{{< tdclose >}}
+{{< tdopen >}}
+Part 3(a): Conceptual Plan / Open Spaces / Uses
+{{< tdclose >}}
+{{< tdopen >}}
+**Review:** Andrea Kahn, Daniel Winny, Ann Pendleton-Jullian, Shun Kanda (Class #12)  
+Jim Stockard (Class #13)  
+Todd Kohr (Class #15)  
+O. Robert Simha (Class #16)  
+Emily Greeves (Class #17)  
+Paul Parravano and Ken Reeves(Class #18)  
+Dan Malinow (Class #19)  
+Eric Orozco (Class #20)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review for Part #2 (Class #12)
+
+Assignment for Part #3a Handed Out (Class #12)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21 - 26
+{{< tdclose >}}
+{{< tdopen >}}
+Part 3(b): Streets / Blocks / Parcels
+{{< tdclose >}}
+{{< tdopen >}}
+Ray Hodges (Class #21)  
+Chris Reed (Class #22)  
+**Review:** Chris Reed, Bill Porter, Bill Hubbard, Shun Kanda (Class #24)  
+Phil Bernstein (Class #25)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review of Part #3a (Class #24)
+
+Assignment for Part #3b Handed Out (Class #24)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27 - 31
+{{< tdclose >}}
+{{< tdopen >}}
+Part 3(c): Building Typologies / Design Guidelines
+{{< tdclose >}}
+{{< tdopen >}}
+**Review:** David Clem and Dan Winny(Class #27)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review for Part #3b (Class #27)
+
+Assignment for Part #3c Handed Out (Class #27)
+
+Pin-Up for Part #3c (Class #31)
+
+Assignment for Part #4 Handed Out (Class #31)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32 - 34
+{{< tdclose >}}
+{{< tdopen >}}
+Part 4: Test Outcomes
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35 - 38
+{{< tdclose >}}
+{{< tdopen >}}
+Part 5: Formatting / Layout
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review for Part #4 (Class #35)
+
+Assignment for LAYOUT Handed Out (Class #35)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39 - 40
+{{< tdclose >}}
+{{< tdopen >}}
+Part 6: Preparation for Final Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pin-Up for LAYOUT (Class #39)
+
+Assignment for FINAL Handed Out (Class #39)
+
+Review of FINAL (Class #40)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
