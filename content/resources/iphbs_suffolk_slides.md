@@ -4,6 +4,7 @@ description: This file contains images depicting Harvard Business School and Suf
   University.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-332j-urban-design-fall-2003/fe8b7e98bc8d96c6bf4f2a8d1e57fba5_iphbs_suffolk_slides.pdf
 file_type: application/pdf
+parent_uid: 25da5339-4c2b-7427-d2d9-80efed8dc8a1
 resourcetype: Document
 title: iphbs_suffolk_slides.pdf
 uid: fe8b7e98-bc8d-96c6-bf4f-2a8d1e57fba5

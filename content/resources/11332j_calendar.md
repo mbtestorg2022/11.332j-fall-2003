@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 9fb184c7-2b78-bb4b-b8d0-9916f70b99f5
 resourcetype: Image
 title: 11332j_calendar.gif
 uid: 76614280-ddb0-e864-6476-f086288b584d
